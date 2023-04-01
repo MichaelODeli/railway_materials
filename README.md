@@ -12,3 +12,5 @@ Several useful materials for railway projects
 - http://osm.sbin.ru/esr/osm2esr.csv
 ### Результирующий файл
 - [CSV](https://github.com/MichaelODeli/railway_materials/blob/main/stations_parcer/RU_stations_new.csv)
+### Предпросмотр файлов
+- [Jupyter + Plotly](https://github.com/MichaelODeli/railway_materials/blob/main/stations_parcer/plo%20rails%20on%20map.ipynb)
