@@ -26,3 +26,4 @@ Several useful materials for railway projects
 [Тарифное руководство №4](https://sovetgt.org/tr4/2023/03/20/) (использована книга №1 для формирования соседства станций)
 ### Результирующий файл
 - [CSV для СвЖД](https://github.com/MichaelODeli/railway_materials/blob/main/stations_neighbourhood/svzd_sosedi.csv)
+- [CSV для всей ж/д РФ](https://github.com/MichaelODeli/railway_materials/blob/main/stations_neighbourhood/rzd_sosedi.csv)
